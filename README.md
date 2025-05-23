@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijan-dixit-14597a2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-dixit-14597a2b8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/SrijanDixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/srijandixit" height="30" width="40" /></a>
+<a href="leetcode.com/u/SrijanDixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/srijandixit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
