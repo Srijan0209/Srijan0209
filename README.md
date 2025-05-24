@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijan-dixit-14597a2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-dixit-14597a2b8" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/SrijanDixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/srijandixit" height="30" width="40" /></a>
+<a href="mailto:srijandixit.1si22cs172@gmail.com">
+<img src="https://camo.githubusercontent.com/8158a7a114cedabbe9a2297cc0f7065b025b35f94acc758606b7e2a814f629fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d2532334431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
